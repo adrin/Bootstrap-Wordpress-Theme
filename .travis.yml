@@ -4,7 +4,6 @@ matrix:
   include:
     # Arbitrary PHP version to run the sniffs against.
     - php: '7.0'
-      env: SNIFF=1
 
 before_install:
   - if [[ "$SNIFF" == "1" ]]; then export PHPCS_DIR=/tmp/phpcs; fi
