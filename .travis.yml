@@ -42,4 +42,6 @@ before_install:
     fi
 
 # Script, failures in this section will result in build status 'failed'
-script: ./civic.sh
+script: ./build.sh
+
+
