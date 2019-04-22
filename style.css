@@ -1,0 +1,16 @@
+/*
+Theme Name: bootstrap wordpress theme
+Author: Mahdixco 
+Author URI: https://iamxco.xyz
+Github URI: http://github.com/mahdixco
+Theme Repository: https://github.com/mahdixco/bootstrap-wordpress-theme
+Version: 1
+*/
+body {
+    font-family: sans-serif;
+    color: #282828;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: bold;
+    color: #282828;
+}
