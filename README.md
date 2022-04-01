@@ -1,6 +1,6 @@
 # Bootstrap Wordpress Theme
 > This is an empty and simple wordpress theme and it making with Bootstrap heart.So you can use feature of Bootstrap in here with this Theme.
-[![HitCount](http://hits.dwyl.io/mahdixco/Bootstrap-Wordpress-Theme.svg)](http://hits.dwyl.io/mahdixco/Bootstrap-Wordpress-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/mahdixco/Bootstrap-Wordpress-Theme.svg)
+[![HitCount](http://hits.dwyl.io/adrin/Bootstrap-Wordpress-Theme.svg)](http://hits.dwyl.io/adrin/Bootstrap-Wordpress-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/adrin/Bootstrap-Wordpress-Theme.svg)
 
 It's run perfectly on Travis as you see [![Build Status](https://travis-ci.com/mahdixco/Bootstrap-Wordpress-Theme.svg?branch=master)](https://travis-ci.com/mahdixco/Bootstrap-Wordpress-Theme)
 
@@ -167,4 +167,4 @@ how we use thumbnail in theme :
 
 ## Thank You 
 after all thank you guys and i be glad to see your commits, pushs and blow blow. see my website: 
-`https://iamxco.xyz`
+`https://adrin.me`
